@@ -2,8 +2,8 @@ import numpy
  
 arr = numpy.array([1, 5, 4, 8, 3, 7])
  
-max_element = numpy.max(arr)
-min_element = numpy.min(arr)
+max_emt = numpy.max(arr)
+min_emt = numpy.min(arr)
  
-print('maximum element in the array is: ', max_element)
-print('minimum element in the array is: ', min_element)
+print('Maximum element in the array is: ', max_emt)
+print('Minimum element in the array is: ', min_emt)
